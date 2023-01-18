@@ -15,18 +15,18 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1 style="color:rgb(255, 217, 94);"></h1style>Albedo</h1>
+						<h1 style="color:rgb(255, 217, 94);"></h1style>Movie</h1>
 						<hr style="width:50%"> 
 						<p><b>[mvie]</b></p>
-						<p>5-star &nbsp;&bull;&nbsp; Geo &nbsp;&bull;&nbsp; Alchemist</p>
+						<p>5-star &nbsp;&bull;&nbsp; Aca &nbsp;&bull;&nbsp; Serr</p>
 						<nav>
 							<ul>
-								<li><a href="https://github.com/akreideprinz" class="icon brands fa-github"><span class="label">Github</span></a></li>
+								<li><a href="[https://github.com/akreideprinz](https://github.com/yks10a)" class="icon brands fa-github"><span class="label">Github</span></a></li>
 								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
 							<ul>
 								<li class="navbar__item">
-								<a href="https://genshin-impact.fandom.com/wiki/Albedo" class="desc_y" style="font-family:Courier; color:rgb(255, 217, 94); font-size: 20px; align-content: center; padding: 3px; border: 2px solid grey; width: auto">[Profile]</a>
+								<a href="#" class="desc_y" style="font-family:Courier; color:rgb(255, 217, 94); font-size: 20px; align-content: center; padding: 3px; border: 2px solid grey; width: auto">[Profile]</a>
 							</li>
 							</ul>
 							
@@ -93,7 +93,7 @@ div.transbox p {
 						<body style="text-align:center;">
 						
 						<div class="tooltip">Hover over me!
-						  <span class="tooltiptext">akserranzana@gbox.adnu.edu.ph</span>
+						  <span class="tooltiptext">Hi</span>
 						</div>
 						
 						</body>
