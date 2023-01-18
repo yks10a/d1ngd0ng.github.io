@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Albedo by akserranzana</title>
+		<title>Home Page</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -36,7 +36,7 @@
 						
 
 div.background {
-  background: url(klematis.jpg) repeat;
+  background: url(download.jpg) repeat;
   border: 2px solid black;
 }
 
