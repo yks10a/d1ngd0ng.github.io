@@ -17,7 +17,7 @@
 					<header id="header">
 						<h1 style="color:rgb(255, 217, 94);"></h1style>Albedo</h1>
 						<hr style="width:50%"> 
-						<p><b>[ Chief Alchemist of the Knights of Favonious ]</b></p>
+						<p><b>[mvie]</b></p>
 						<p>5-star &nbsp;&bull;&nbsp; Geo &nbsp;&bull;&nbsp; Alchemist</p>
 						<nav>
 							<ul>
